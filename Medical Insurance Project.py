@@ -2,6 +2,8 @@
 
 # %%
 import csv
+import pandas
+import numpy
 
 # %%
 ages = []
